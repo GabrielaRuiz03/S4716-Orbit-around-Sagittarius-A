@@ -55,11 +55,6 @@ Make sure you have Python 3.8+ installed along with the required libraries.
 * **Emcee**: Ensemble MCMC sampler for parameter uncertainty estimation.
 * **PyMCEL**: Astronomical constants and domain-specific utilities.
 
-### Installation
-You can install the required packages using pip:
-
-```bash
-pip install numpy pandas matplotlib plotly scipy spiceypy emcee pymcel
 
 ## 📁 Project Structure
 .
