@@ -36,7 +36,7 @@ To simplify the numerical equations of motion and fitting ($G = 1$), the followi
 | Quantity | Canonical Unit | Physical Value / Reference |
 | :--- | :--- | :--- |
 | **Distance ($U_L$)** | $1 \text{ mpc}$ (milliparsec) | $3.0857 \times 10^{13} \text{ m}$ |
-| **Mass ($U_M$)** | Mass of $Sgr A^*$ | $4.3 \times 10^6 \, M_\odot \approx 8.55 \times 10^{36} \text{ kg}$ |
+| **Mass ($U_M$)** | Mass of $Sgr A^*$ | $4.3 \times 10^6 \ M_\odot \approx 8.55 \times 10^{36} \text{ kg}$ |
 | **Distance to Center ($d$)** | Parsecs | $8000 \text{ pc}$ |
 | **Time ($U_T$)** | Canonical Seconds | $\sqrt{U_L^3 / (G \cdot U_M)} \approx 7.175 \times 10^6 \text{ s}$ |
 | **Velocity ($U_V$)** | Meters per second | $U_L / U_T \approx 4.300 \times 10^6 \text{ m/s}$ |
