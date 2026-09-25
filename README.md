@@ -13,7 +13,6 @@ The study is based on astrometric data collected between **2003 and 2021** by se
 - [Requirements and Installation](#-requirements-and-installation)
 - [Project Structure](#-project-structure)
 - [Notebook Workflow](#-notebook-workflow)
-- [Usage](#-usage)
 
 ---
 
@@ -61,10 +60,16 @@ You can install the required packages using pip:
 
 ```bash
 pip install numpy pandas matplotlib plotly scipy spiceypy emcee pymcel
+```
 
-### 📁 Project Structure
+## 📁 Project Structure
 .
 ├── datos_s4716.csv      # CSV file containing observations (epoch, RA, Dec, err_RA, err_Dec)
 ├── notebook.ipynb       # Main Jupyter Notebook with calculations and fitting
 └── README.md            # Project overview and documentation
 
+## 📑 Notebook Workflow
+1. Data Loading and Conversion: Importing astronomical coordinates in Right Ascension ($\text{RA}$) and Declination ($\text{Dec}$) measured in arcseconds, then converting them to canonical units and parsecs.
+2. Unit Definition: Converting variables to Galactic Center scale units ($G=1$).
+3. Initial Visualization: Plotting observational data points along with their associated uncertainties ($\text{err\_RA}$, $\text{err\_Dec}$).
+4. Orbit Fitting: Using numerical methods to fit the orbital ellipse to the observed positions.
