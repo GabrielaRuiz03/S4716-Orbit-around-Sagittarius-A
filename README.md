@@ -1,7 +1,7 @@
 # Sagittarius A* repository
 # Orbit Determination of Star S4716 Around Sagittarius A*
 
-This repository contains the astrophysical analysis and modeling used to determine the Keplerian orbital elements of the star **S4716** as it orbits the Supermassive Black Hole at the Galactic Center, **Sagittarius A* ($Sgr A^*$)**.
+This repository contains the astrophysical analysis and modeling used to determine the Keplerian orbital elements of the star **S4716** as it orbits the Supermassive Black Hole at the Galactic Center, **Sagittarius A**.
 
 The study is based on astrometric data collected between **2003 and 2021** by several state-of-the-art astronomical instruments: **NIRC2** (Keck), **OSIRIS** (Keck), **SINFONI** (VLT), **NACO** (VLT), and **GRAVITY** (VLTI).
 
@@ -71,5 +71,5 @@ pip install numpy pandas matplotlib plotly scipy spiceypy emcee pymcel
 ## 📑 Notebook Workflow
 1. Data Loading and Conversion: Importing astronomical coordinates in Right Ascension ($\text{RA}$) and Declination ($\text{Dec}$) measured in arcseconds, then converting them to canonical units and parsecs.
 2. Unit Definition: Converting variables to Galactic Center scale units ($G=1$).
-3. Initial Visualization: Plotting observational data points along with their associated uncertainties ($\text{err\_RA}$, $\text{err\_Dec}$).
+3. Initial Visualization: Plotting observational data points along with their associated uncertainties.
 4. Orbit Fitting: Using numerical methods to fit the orbital ellipse to the observed positions.
