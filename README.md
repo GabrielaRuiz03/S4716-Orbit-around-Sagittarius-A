@@ -1,4 +1,4 @@
-# SagitarioA repository
+# Sagittarius A* repository
 # Orbit Determination of Star S4716 Around Sagittarius A*
 
 This repository contains the astrophysical analysis and modeling used to determine the Keplerian orbital elements of the star **S4716** as it orbits the Supermassive Black Hole at the Galactic Center, **Sagittarius A* ($Sgr A^*$)**.
