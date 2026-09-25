@@ -10,7 +10,6 @@ The study is based on astrometric data collected between **2003 and 2021** by se
 ## 📋 Table of Contents
 - [Orbital Parameters](#-orbital-parameters)
 - [Canonical Units](#-canonical-units)
-- [Requirements and Installation](#-requirements-and-installation)
 - [Project Structure](#-project-structure)
 - [Notebook Workflow](#-notebook-workflow)
 
