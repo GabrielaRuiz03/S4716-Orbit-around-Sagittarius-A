@@ -59,7 +59,9 @@ Make sure you have Python 3.8+ installed along with the required libraries.
 ## 📁 Project Structure
 .
 ├── datos_s4716.csv      # CSV file containing observations (epoch, RA, Dec, err_RA, err_Dec)
+
 ├── notebook.ipynb       # Main Jupyter Notebook with calculations and fitting
+
 └── README.md            # Project overview and documentation
 
 ## 📑 Notebook Workflow
