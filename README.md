@@ -48,7 +48,7 @@ Make sure you have Python 3.8+ installed along with the required libraries.
 
 ### Main Dependencies
 * **NumPy** & **Pandas**: Numerical data handling and table inspection.
-* **SciPy**: Optimization and curve fitting (`least_squares`, `curve_fit`, `fsolve`, `minimize`).
+* **SciPy**: Optimization and curve fitting (`least_squares`, `curve_fit`, `minimize`).
 * **Matplotlib** & **Plotly**: 2D and interactive orbit visualization.
 * **SpiceyPy**: Ephemeris computation and celestial mechanics.
 * **Emcee**: Ensemble MCMC sampler for parameter uncertainty estimation.
