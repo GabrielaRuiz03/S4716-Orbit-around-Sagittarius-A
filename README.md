@@ -3,7 +3,7 @@
 
 This repository contains the astrophysical analysis and modeling used to determine the Keplerian orbital elements of the star **S4716** as it orbits the Supermassive Black Hole at the Galactic Center, **Sagittarius A**.
 
-The study is based on astrometric data collected between **2003 and 2021** by several state-of-the-art astronomical instruments: **NIRC2** (Keck), **OSIRIS** (Keck), **SINFONI** (VLT), **NACO** (VLT), and **GRAVITY** (VLTI).
+The study is based on astrometric data collected between **2003 and 2021** by the astronomical instruments: **NIRC2** (Keck), **OSIRIS** (Keck), **SINFONI** (VLT), **NACO** (VLT), and **GRAVITY** (VLTI).
 
 ---
 
