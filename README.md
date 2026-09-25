@@ -63,7 +63,7 @@ pip install numpy pandas matplotlib plotly scipy spiceypy emcee pymcel
 ```
 
 ## 📁 Project Structure
-
+.
 ├── datos_s4716.csv      # CSV file containing observations (epoch, RA, Dec, err_RA, err_Dec)
 ├── notebook.ipynb       # Main Jupyter Notebook with calculations and fitting
 └── README.md            # Project overview and documentation
