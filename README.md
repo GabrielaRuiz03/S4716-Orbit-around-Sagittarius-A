@@ -57,7 +57,7 @@ Make sure you have Python 3.8+ installed along with the required libraries.
 
 ## 📁 Project Structure
 
-├── datos_s4716.csv      -- CSV file containing observations (epoch, RA, Dec, err_RA, err_Dec)
+├── data_s4716.csv      -- CSV file containing observations (epoch, RA, Dec, err_RA, err_Dec)
 
 ├── S4716_RA_and_Dec_Keplerian_fit.ipynb       -- Main Jupyter Notebook with calculations and fitting
 
